@@ -145,7 +145,7 @@ test("should build artist list", () => {
 
 });
 
-test("should not contain canlled acts", () => {
+test("should not contain cancelled acts", () => {
   const result = buildArtistList();
   expect(Array.isArray(result)).toBe(true);
 
