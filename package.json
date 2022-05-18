@@ -1,10 +1,11 @@
 {
   "name": "ct-challenges-intern",
   "version": "1.0.0",
+  "author": "Charlie Tango",
+  "license": "MIT",
   "scripts": {
     "test": "vitest"
   },
-  "author": "Charlie Tango",
   "devDependencies": {
     "prettier": "^2.6.2",
     "vitest": "^0.12.6"
