@@ -1,0 +1,12 @@
+{
+  "name": "ct-challenges-intern",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "Charlie Tango",
+  "devDependencies": {
+    "prettier": "^2.6.2",
+    "vitest": "^0.12.6"
+  }
+}
