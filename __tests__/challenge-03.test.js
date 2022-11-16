@@ -131,7 +131,6 @@ const cancelledActs = [
   "Simonis Inc",
   "VonRueden LLC",
   "West - Barton",
-
 ]
 
 test("should build artist list", () => {
