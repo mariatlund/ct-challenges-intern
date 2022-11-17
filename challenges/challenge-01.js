@@ -16,7 +16,7 @@ export function convertToWeekDay(shortWeekDay) {
   const input = shortWeekDay.toLowerCase();
 
   // Create array with all weekdays to use for filtering
-  const weekDayArray = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"];
+  const weekDayArray = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"];
 
   // Use a filter function to find the day that matches
   const longWeekDay = weekDayArray.filter(determineDay);
